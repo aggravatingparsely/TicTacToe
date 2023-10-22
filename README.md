@@ -4,5 +4,5 @@ Enter first "yes" or "no" as to whether you want to go first.
 First turn switches between you and computer after each game.
 Keeps track of number of games won, lost, and are drawn.
 
-# To Run:
+# To run:
 In command window, type 'python tictactoe.py'
